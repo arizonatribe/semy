@@ -1,6 +1,6 @@
 # Semy
 
-<img src="https://raw.githubusercontent.com/arizonatribe/vanillas-packages/main/packages/semy/media/logo.png" width="200" height="73" align="left" hspace="12" style="margin-right: 36px;" />
+<img src="https://raw.githubusercontent.com/arizonatribe/semy/main/media/logo.png" width="200" height="73" align="left" hspace="12" style="margin-right: 36px;" />
 
 * Interactive mode (for manual versioning)
 * Supports [conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) messages
@@ -30,7 +30,7 @@ npx semy
 ```
 
 <div align="center">
-  <img width="480" src="https://raw.githubusercontent.com/arizonatribe/vanillas-packages/main/packages/semy/media/semy-interactive.gif" alt="Semy (interactive)">
+  <img width="480" src="https://raw.githubusercontent.com/arizonatribe/semy/main/media/semy-interactive.gif" alt="Semy (interactive)">
 </div>
 
 #### Directly
@@ -52,7 +52,7 @@ npx semy --type=patch
 ```
 
 <div align="center">
-  <img width="480" src="https://raw.githubusercontent.com/arizonatribe/vanillas-packages/main/packages/semy/media/semy.gif" alt="Semy)">
+  <img width="480" src="https://raw.githubusercontent.com/arizonatribe/semy/main/media/semy.gif" alt="Semy)">
 </div>
 
 
@@ -79,7 +79,7 @@ npx semy --revert
 ```
 
 <div align="center">
-  <img width="480" src="https://raw.githubusercontent.com/arizonatribe/vanillas-packages/main/packages/semy/media/semy-revert.gif" alt="Semy --revert">
+  <img width="480" src="https://raw.githubusercontent.com/arizonatribe/semy/main/media/semy-revert.gif" alt="Semy --revert">
 </div>
 
 
